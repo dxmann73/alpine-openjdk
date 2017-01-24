@@ -6,7 +6,7 @@ alpine-openjdk
 
 Versions
 --------
-Alpine Linux: 3.4  
+Alpine Linux: 3.5  
 Java: The latest major version provided by the Alpine Linux version.
 
 Examples
